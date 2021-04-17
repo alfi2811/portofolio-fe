@@ -5,8 +5,8 @@ As a recruitment team, my team was assigned to create a website for Proclub new 
 
 ## Screenshot
 
-![](./login.PNG)\
-![](./register.png)\
+![](./login.PNG).\
+![](./register.png).\
 ![](./pass.PNG)\
 ![](./failed.PNG)
 

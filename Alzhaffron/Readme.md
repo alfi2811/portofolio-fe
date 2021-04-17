@@ -5,8 +5,8 @@ Make e-commerce website for Saffron Seller. In this project, My task as Frontend
 
 ## Screenshot
 
-![](./landing.png)
-![](./registrasi.png)
+![](./landing.PNG)
+![](./registrasi.PNG)
 
 ## Tech Stack
 

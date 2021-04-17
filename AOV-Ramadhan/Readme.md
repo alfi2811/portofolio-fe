@@ -1,4 +1,4 @@
-# AOV Ramadhan
+# AOV Ramadhan (Frontend Intern Garena)
 
 ## Deskripsi
 Make event for one month of ramadhan. Users can search material for making kolak with the expedition feature and can draw if they get thr tokens from making kolak and can also invite friends to complete missions together.

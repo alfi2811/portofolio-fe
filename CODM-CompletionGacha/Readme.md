@@ -1,4 +1,4 @@
-# Fantasy Town Valentine
+# Fantasy Town Valentine (Frontend Intern Garena)
 
 ## Deskripsi
 Change assets images of CODM event for celebrating chinese new year that user can draw using CP to get item or character.

@@ -1,4 +1,4 @@
-# Fantasy Town Valentine
+# Fantasy Town Valentine (Frontend Intern Garena)
 
 ## Deskripsi
 My first project at Garena Indonesia, make Fantasy Town event for celebrating valentine that user can buy item with discount price.

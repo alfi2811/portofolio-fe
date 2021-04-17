@@ -1,4 +1,4 @@
-# AOV Ramadhan
+# AOV Ramadhan (Frontend Intern Garena)
 
 ## Deskripsi
 Make AOV event that users can buy hero or skin with discount price and limited. User also can do spin using token to get item.

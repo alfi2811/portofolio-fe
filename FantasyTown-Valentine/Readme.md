@@ -1,16 +1,11 @@
-# AOV Ramadhan
+# Fantasy Town Valentine
 
 ## Deskripsi
-Make event for one month of ramadhan. Users can search material for making kolak with the expedition feature and can draw if they get thr tokens from making kolak and can also invite friends to complete missions together.
+My first project at Garena Indonesia, make Fantasy Town event for celebrating valentine that user can buy item with discount price.
 
 ## Screenshot
 
-![](./intro.PNG) \
-![](./bootcamp.PNG) \
-![](./expedition.PNG) \
-![](./cooking.png) \
-![](./thr.PNG) \
-![](./referral.PNG)
+![](./sale.PNG)
 
 ## Tech Stack
 
@@ -31,4 +26,4 @@ Make event for one month of ramadhan. Users can search material for making kolak
 
 ## Live Demo
 
-The event is still in the AOV game.
+The event already finished.

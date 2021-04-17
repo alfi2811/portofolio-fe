@@ -1,16 +1,13 @@
 # AOV Ramadhan
 
 ## Deskripsi
-Make event for one month of ramadhan. Users can search material for making kolak with the expedition feature and can draw if they get thr tokens from making kolak and can also invite friends to complete missions together.
+Make AOV event that users can buy hero or skin with discount price and limited. User also can do spin using token to get item.
 
 ## Screenshot
 
-![](./intro.PNG) \
-![](./bootcamp.PNG) \
-![](./expedition.PNG) \
-![](./cooking.png) \
-![](./thr.PNG) \
-![](./referral.PNG)
+![](./supersale.PNG) \
+![](./confirm.PNG) \
+![](./luckyspin.PNG) \
 
 ## Tech Stack
 
@@ -31,4 +28,4 @@ Make event for one month of ramadhan. Users can search material for making kolak
 
 ## Live Demo
 
-The event is still in the AOV game.
+The event already finished.

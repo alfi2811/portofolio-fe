@@ -5,7 +5,7 @@ A final exam of learn basic web programming course from Dicoding. Made it using 
 
 ## Screenshot
 
-![](./landing.PNG) \
+![](./landing.PNG).\
 
 ## Tech Stack
 

@@ -1,7 +1,7 @@
-# Alzhaffron Website (On Progress)
+# Teknofest Proclub 2020
 
 ## Deskripsi
-Make e-commerce website for Saffron Seller. In this project, My task as Frontend to create a website display and connect it to API using ReactJS and Redux.
+As a recruitment team, my team was assigned to create a website for Proclub new member registration. I am positioned as the frontend to create a website display.
 
 ## Screenshot
 
@@ -19,7 +19,7 @@ Make e-commerce website for Saffron Seller. In this project, My task as Frontend
 
 ## Repository
 
-1. [Frontend](https://github.com/alfi2811/alzhaffron-website)
+1. [Frontend](https://github.com/helloproclub/teknofest-2020)
 
 ## Contributors
 
@@ -27,4 +27,4 @@ Make e-commerce website for Saffron Seller. In this project, My task as Frontend
 
 ## Live Demo
 
-[alzhaffron.netlify.app](https://alzhaffron.netlify.app/)
+[Proclub Teknofest 2020](https://teknofest.proclub.tech/)

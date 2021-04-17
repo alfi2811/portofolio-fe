@@ -5,8 +5,10 @@ As a recruitment team, my team was assigned to create a website for Proclub new 
 
 ## Screenshot
 
-![](./landing.PNG) \
-![](./registrasi.PNG)
+![](./login.PNG)\
+![](./register.PNG)
+![](./pass.PNG)
+![](./failed.PNG)
 
 ## Tech Stack
 

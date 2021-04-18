@@ -7,7 +7,7 @@ Make AOV event that users can buy hero or skin with discount price and limited. 
 
 ![](./supersale.PNG) \
 ![](./confirm.PNG) \
-![](./luckyspin.PNG) \
+![](./luckyspin.PNG) 
 
 ## Tech Stack
 

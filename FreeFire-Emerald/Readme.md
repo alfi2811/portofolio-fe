@@ -7,7 +7,7 @@ Slicing from design of Freefire event that users can buy hero or skin with emera
 
 ![](./home.PNG) \
 ![](./confirm.PNG) \
-![](./buy.PNG) \
+![](./buy.PNG)
 
 ## Tech Stack
 

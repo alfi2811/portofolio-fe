@@ -5,7 +5,7 @@ My first project at Garena Indonesia, make Fantasy Town event for celebrating va
 
 ## Screenshot
 
-![](./sale.jpeg)
+![](./sale.jpeg) 
 
 ## Tech Stack
 

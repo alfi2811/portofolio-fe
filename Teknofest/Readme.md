@@ -29,4 +29,4 @@ As a recruitment team, my team was assigned to create a website for Proclub new 
 
 ## Live Demo
 
-[Proclub Teknofest 2020](https://teknofest.proclub.tech/)
+[Proclub Teknofest 2020](https://teknofest.proclub.tech/) (Just login page because the requirement already finished)
